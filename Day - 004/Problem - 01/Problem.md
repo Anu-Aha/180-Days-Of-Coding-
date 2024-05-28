@@ -1,0 +1,1 @@
+find the factorial value of the number
